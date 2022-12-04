@@ -1,0 +1,1 @@
+Just to learn some go and keep my mind at work

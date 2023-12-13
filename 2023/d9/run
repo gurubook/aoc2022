@@ -1,0 +1,2 @@
+#!/bin/bash
+kotlin MainKt.class $1

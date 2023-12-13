@@ -1,0 +1,2 @@
+#!/bin/bash
+ kotlinc main.kt && kotlin MainKt.class $1
